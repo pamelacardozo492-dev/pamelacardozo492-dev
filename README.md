@@ -21,3 +21,8 @@ Me interesa integrar las tecnologías digitales en la educación y continuar apr
 
 ---
 *¡Gracias por visitar mi perfil!*
+## Habilidades que estoy desarrollando
+- Uso de Git y GitHub
+- Escritura de documentos con Markdown
+- Herramientas digitales para la enseñanza
+- Programación básica
