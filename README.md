@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola! Soy Pamela Cardozo 👋
 
-<!--
-**pamelacardozo492-dev/pamelacardozo492-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Tengo 28 años y soy de Monterrico, Jujuy, Argentina. Soy docente de Matemática e Informática, egresada del Profesorado del IES 6.
 
-Here are some ideas to get you started:
+Me interesa integrar las tecnologías digitales en la educación y continuar aprendiendo herramientas que ayuden a mejorar la enseñanza y el aprendizaje.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mis intereses
+- Educación y tecnología
+- Enseñanza de Matemática e Informática
+- Herramientas digitales para el aula
+- Git y GitHub
+- Programación y desarrollo de software
+
+## Formación
+- Profesorado de Matemática e Informática — IES 6
+
+## Contacto
+- Ubicación: Monterrico, Jujuy, Argentina
+- Email: pamelacardozo492@gmail.com
+
+---
+*¡Gracias por visitar mi perfil!*
